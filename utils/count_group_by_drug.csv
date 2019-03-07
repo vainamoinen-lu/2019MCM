@@ -1,0 +1,70 @@
+SubstanceName,YYYY,State,COUNTY,FIPS_State,FIPS_County,FIPS_Combined,DrugReports,TotalDrugReportsCounty,TotalDrugReportsState
+"3,4-Methylenedioxy U-47700",1,1,1,1,1,1,1,1,1
+3-Fluorofentanyl,1,1,1,1,1,1,1,1,1
+3-Methylfentanyl,102,102,102,102,102,102,102,102,102
+4-Fluoroisobutyryl fentanyl,132,132,132,132,132,132,132,132,132
+4-Methylfentanyl,1,1,1,1,1,1,1,1,1
+ANPP,35,35,35,35,35,35,35,35,35
+Acetyl fentanyl,265,265,265,265,265,265,265,265,265
+Acetylcodeine,6,6,6,6,6,6,6,6,6
+Acetyldihydrocodeine,3,3,3,3,3,3,3,3,3
+Acryl fentanyl,112,112,112,112,112,112,112,112,112
+Alphaprodine,1,1,1,1,1,1,1,1,1
+Benzylfentanyl,11,11,11,11,11,11,11,11,11
+Buprenorphine,2524,2524,2524,2524,2524,2524,2524,2524,2524
+Butorphanol,6,6,6,6,6,6,6,6,6
+Butyryl fentanyl,70,70,70,70,70,70,70,70,70
+Carfentanil,216,216,216,216,216,216,216,216,216
+Codeine,1034,1034,1034,1034,1034,1034,1034,1034,1034
+Crotonyl fentanyl,6,6,6,6,6,6,6,6,6
+Cyclopentyl fentanyl,1,1,1,1,1,1,1,1,1
+Cyclopropyl fentanyl,89,89,89,89,89,89,89,89,89
+Cyclopropyl/Crotonyl Fentanyl,2,2,2,2,2,2,2,2,2
+Desmethylprodine ,8,8,8,8,8,8,8,8,8
+Dextropropoxyphene,45,45,45,45,45,45,45,45,45
+Dihydrocodeine,12,12,12,12,12,12,12,12,12
+Dihydromorphone,1,1,1,1,1,1,1,1,1
+Fentanyl,1484,1484,1484,1484,1484,1484,1484,1484,1484
+Fluorobutyryl fentanyl ,2,2,2,2,2,2,2,2,2
+Fluorofentanyl,2,2,2,2,2,2,2,2,2
+Fluoroisobutyryl fentanyl,33,33,33,33,33,33,33,33,33
+Furanyl fentanyl,341,341,341,341,341,341,341,341,341
+Furanyl/3-Furanyl fentanyl,4,4,4,4,4,4,4,4,4
+Heroin,2727,2727,2727,2727,2727,2727,2727,2727,2727
+Hydrocodeinone,3,3,3,3,3,3,3,3,3
+Hydrocodone,2979,2979,2979,2979,2979,2979,2979,2979,2979
+Hydromorphone,1191,1191,1191,1191,1191,1191,1191,1191,1191
+Isobutyryl fentanyl,2,2,2,2,2,2,2,2,2
+Levorphanol,2,2,2,2,2,2,2,2,2
+MT-45,2,2,2,2,2,2,2,2,2
+Meperidine,79,79,79,79,79,79,79,79,79
+Metazocine,1,1,1,1,1,1,1,1,1
+Methadone,1795,1795,1795,1795,1795,1795,1795,1795,1795
+Methorphan,134,134,134,134,134,134,134,134,134
+Methoxyacetyl fentanyl,50,50,50,50,50,50,50,50,50
+Mitragynine,54,54,54,54,54,54,54,54,54
+Morphine,2102,2102,2102,2102,2102,2102,2102,2102,2102
+Nalbuphine,1,1,1,1,1,1,1,1,1
+Opiates,15,15,15,15,15,15,15,15,15
+Opium,15,15,15,15,15,15,15,15,15
+Oxycodone,3124,3124,3124,3124,3124,3124,3124,3124,3124
+Oxymorphone,1182,1182,1182,1182,1182,1182,1182,1182,1182
+Pentazocine,47,47,47,47,47,47,47,47,47
+Pethidine,12,12,12,12,12,12,12,12,12
+Phenyl fentanyl,15,15,15,15,15,15,15,15,15
+Propoxyphene,335,335,335,335,335,335,335,335,335
+Remifentanil,1,1,1,1,1,1,1,1,1
+Tetrahydrofuran fentanyl,5,5,5,5,5,5,5,5,5
+Thebaine,5,5,5,5,5,5,5,5,5
+Tramadol,1384,1384,1384,1384,1384,1384,1384,1384,1384
+U-47700,195,195,195,195,195,195,195,195,195
+U-48800,11,11,11,11,11,11,11,11,11
+U-49900,7,7,7,7,7,7,7,7,7
+U-51754,1,1,1,1,1,1,1,1,1
+Valeryl fentanyl,12,12,12,12,12,12,12,12,12
+cis-3-methylfentanyl,3,3,3,3,3,3,3,3,3
+o-Fluorofentanyl,6,6,6,6,6,6,6,6,6
+p-Fluorobutyryl fentanyl,9,9,9,9,9,9,9,9,9
+p-Fluorofentanyl,2,2,2,2,2,2,2,2,2
+p-methoxybutyryl fentanyl,1,1,1,1,1,1,1,1,1
+trans-3-Methylfentanyl,3,3,3,3,3,3,3,3,3
